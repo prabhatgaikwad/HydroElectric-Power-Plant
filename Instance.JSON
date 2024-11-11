@@ -1,0 +1,29 @@
+[
+  {
+    "PlcName": "PLC_1",
+    "InstanceName": "Instance_1",
+    "InstanceGuid": "e2746155-b642-4095-b49a-0c135f8e7d80",
+    "PlcType": 1,
+    "PlcId": 0,
+    "WasPoweredOnWhenSaved": false,
+    "IsUsingRuntimeApi": false,
+    "IsConfigured": true,
+    "TimeScalingValue": 1.0,
+    "Version": "18.00.00.00",
+    "Vplc": {
+      "$type": "plcsim.Vplc.VplcApi.VplcApiPlc, plcsim",
+      "PlcName": "PLC_1",
+      "PlcType": 1,
+      "PlcID": 0,
+      "IsConfigured": true,
+      "CycleTimeoutMode": 1,
+      "CycleTimeoutTime": 150,
+      "VplcInputOutput": {
+        "$type": "plcsim.Vplc.VplcApi.VplcApiInputOutput, plcsim"
+      }
+    },
+    "LicenseSelection": {
+      "SelectedLicense": 0
+    }
+  }
+]
